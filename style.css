@@ -16,7 +16,7 @@ body{
     
     background-image: url(images/bg-header-mobile.png);
     background-repeat: no-repeat;
-    min-width: 100%;
+    max-width: 100%;
     overflow-x:hidden ;
 }
 }
