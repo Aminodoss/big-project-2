@@ -16,6 +16,8 @@ body{
     
     background-image: url(images/bg-header-mobile.png);
     background-repeat: no-repeat;
+    width: 100%;
+    overflow-x:hidden ;
 }
 }
 .a3{
