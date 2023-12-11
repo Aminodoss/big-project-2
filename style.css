@@ -12,12 +12,20 @@ body{
 
 }
 @media(max-width:576px){
+  ::-webkit-scrollbar{
+    display: none;
+  }
+    
+    }
+    
+@media(max-width:576px){
 body{
     
     background-image: url(images/bg-header-mobile.png);
     background-repeat: no-repeat;
     max-width: 100%;
-    overflow-x:hidden ;
+    overscroll-behavior:none ;
+
 }
 }
 .a3{
