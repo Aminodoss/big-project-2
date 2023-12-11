@@ -276,6 +276,18 @@ body{
     margin-top: 13px;
     color: #ffffffcc;
 }
+@media(max-width:576px){
+
+.a1 button:nth-of-type(1){
+    gap:  20px;
+    border-radius: 25px;
+    padding: 10px 19px;
+
+    
+
+
+
+}}
 .a1 button:nth-of-type(1){
     gap:  20px;
     border-radius: 25px;
