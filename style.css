@@ -279,8 +279,8 @@ body{
 .a1 button:nth-of-type(1){
     gap:  20px;
     border-radius: 25px;
-    padding: 10px 21px;
-    width: 140px;
+    padding: 10px 19px;
+    
     margin-right: 5px;
    background-color:  hsl(171, 66%, 44%);
    border: none;
