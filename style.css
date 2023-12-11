@@ -23,7 +23,7 @@ body{
     
     background-image: url(images/bg-header-mobile.png);
     background-repeat: no-repeat;
-    max-width: 100%;
+    min-width: 100%;
     overscroll-behavior:none ;
 
 }
