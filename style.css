@@ -11,12 +11,7 @@ body{
     background-size: contain;
 
 }
-@media(max-width:576px){
-  ::-webkit-scrollbar{
-    display: none;
-  }
-    
-    }
+
     
 @media(max-width:576px){
 body{
