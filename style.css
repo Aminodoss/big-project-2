@@ -1,6 +1,6 @@
 .container{
     width: 100%;
-    margin: 0;
+    
     
     
 }
@@ -10,6 +10,9 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
 
+}
+html{
+    scroll-behavior: smooth;
 }
 
     
